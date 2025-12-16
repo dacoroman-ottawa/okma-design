@@ -36,7 +36,9 @@ Docs, installation, usage, & best practices 👉 [It's all here](https://builder
 
 ## Support, Training & Community
 
-For official support, training, and community as you use Design OS—for yourself or with your team, consider joining [Builder Methods Pro](https://buildermethods.com/pro). You'll get access to Brian Casel (the creator) for questions, a community of builders using Design OS, plus all Builder Methods workshops and training on AI-first development.
+For official support, training, and community as you use Design OS—for yourself or with your team, consider joining _Builder Methods Pro_. You'll get access to Brian Casel (the creator) for questions, a community of builders using Design OS, plus all Builder Methods workshops and training on AI-first development.
+
+👉 [Join Builder Methods Pro](https://buildermethods.com/pro)
 
 ---
 
@@ -44,7 +46,7 @@ For official support, training, and community as you use Design OS—for yoursel
 
 Read the [changelog](CHANGELOG.md)
 
-[Subscribe to be notified of major new releases of Agent OS](https://buildermethods.com/design-os)
+[Subscribe to be notified of major new releases of Design OS](https://buildermethods.com/design-os)
 
 ---
 
