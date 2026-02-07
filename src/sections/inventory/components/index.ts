@@ -1,0 +1,6 @@
+export { InventoryView } from './InventoryView'
+export { ProductsTab } from './ProductsTab'
+export { RentalsTab } from './RentalsTab'
+export { SalesTab } from './SalesTab'
+export { SuppliersTab } from './SuppliersTab'
+export { CustomersTab } from './CustomersTab'
